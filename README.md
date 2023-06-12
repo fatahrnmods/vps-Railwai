@@ -21,8 +21,7 @@ Sebelum memulai, pastikan Anda memiliki yang berikut ini:<br>
 (Anda dapat mendaftar secara gratis)
 
 ## Installation
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/fatahrnmods/vps-Railwai/blob/main/deploy.md)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/MXebrr?referralCode=AiTnq-)
 ## Limitations
 
 <blockquote>
